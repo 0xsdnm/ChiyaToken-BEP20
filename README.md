@@ -1,8 +1,7 @@
 # CHIYA Projects 
 
 Deflationary, Frictionless yield and liquidity generation protocol. 
-Simply hold Ra8bits in your wallet and gain rewards when others transfer.
-
+Simply hold CHIYA Token in your wallet and to earn rewards as passive income.
 Feel free to read the code.
 
 ## Contract Address
