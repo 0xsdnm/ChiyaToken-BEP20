@@ -33,7 +33,7 @@ For development:
 3. Run 'npx truffle migrate --network bsctestnet'
 4. Smart contract should now be deployed.
 5. Verify the contract
-6. Run 'npx truffle run verify Ra8Bits@0x0000TOKENADDRES0000 --network bsctestnet
+6. Run 'npx truffle run verify CHIYA@0x0000TOKENADDRES0000 --network bsctestnet
 
 ## Running scripts
 
